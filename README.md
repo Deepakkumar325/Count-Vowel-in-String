@@ -1,5 +1,8 @@
 # Count-Vowel-in-String
-# find Vowel a=input("Enter the string")
+# find Vowel in python 
+
+a=input("Enter the string")
+
 string=a.lower()
 
 print(string)
